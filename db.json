@@ -1,0 +1,94 @@
+{
+  "StudentDatabase": [
+    {
+      "id": 1,
+      "Name": "Lavanya",
+      "City": "Bangarpet",
+      "RollNO": "20",
+      "EmailId": "h@gmail.com",
+      "Mobile": 9740449930,
+      "Course": "Full stack",
+      "DOJ": "2023-06-05"
+    },
+    {
+      "id": 2,
+      "Name": "Harini",
+      "City": "Bangalore",
+      "RollNO": "20",
+      "EmailId": "h@gmail.com",
+      "Mobile": 9740449930,
+      "Course": "Full stack",
+      "DOJ": "02-Oct-2019"
+    },
+    {
+      "id": 3,
+      "Name": "Harini",
+      "City": "Bangalore",
+      "RollNO": "20",
+      "EmailId": "h@gmail.com",
+      "Mobile": 9740449930,
+      "Course": "Full stack",
+      "DOJ": "02-Oct-2019"
+    },
+    {
+      "id": 4,
+      "Name": "Jaikrish Reddy",
+      "City": "Bangalore",
+      "RollNO": "78",
+      "EmailId": "jai@gmail.com",
+      "Mobile": 9874562212,
+      "Course": "Backend",
+      "DOJ": "2021-04-25"
+    },
+    {
+      "id": 5,
+      "Name": "Ishitha",
+      "City": "Bangalore",
+      "RollNO": "53",
+      "EmailId": "Ishu@gmail.com",
+      "Mobile": "9874562212",
+      "Course": "Backend",
+      "DOJ": "2021-04-25"
+    },
+    {
+      "id": 6,
+      "Name": "Nanda Kumari",
+      "City": "Bangalore",
+      "RollNO": "25",
+      "EmailId": "nan@gmail.com",
+      "Mobile": "3258997416",
+      "Course": "aws",
+      "DOJ": "2020-02-11"
+    },
+    {
+      "id": 7,
+      "Name": "xyz",
+      "City": "Bangalore",
+      "RollNO": "25",
+      "EmailId": "xyz@gmail.com",
+      "Mobile": "3258997416",
+      "Course": "Devops",
+      "DOJ": "2022-10-02"
+    },
+    {
+      "id": 8,
+      "Name": "Sri Lakshmi",
+      "City": "Andra",
+      "RollNO": "25",
+      "EmailId": "sri@gmail.com",
+      "Mobile": "147852963",
+      "Course": "Front End",
+      "DOJ": "2023-11-15"
+    },
+    {
+      "id": 9,
+      "Name": "Deepika",
+      "City": "Chennai",
+      "RollNO": "85",
+      "EmailId": "Dp@gmail.com",
+      "Mobile": "789456123",
+      "Course": "Backend",
+      "DOJ": "2023-11-23"
+    }
+  ]
+}
